@@ -7,7 +7,7 @@ https://github.com/casinclude/roadmap/issues
 
 ... or (recommended) view the issues using the Waffle.io board...
 
-https://waffle.io/
+https://waffle.io/casinclude/roadmap
 
 ## Roadmap States
 
